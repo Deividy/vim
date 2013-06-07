@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/deividy/.vim/bundle/tabular'
+let g:netrw_dirhist_2='/Users/deividy/.vim/bundle/tabular/autoload'
+let g:netrw_dirhist_3='/Users/deividy/.vim/bundle/tabular'
+let g:netrw_dirhist_4='/Users/deividy/.vim/bundle/tabular/after'
+let g:netrw_dirhist_5='/Users/deividy/.vim/bundle/tabular'
+let g:netrw_dirhist_6='/Users/deividy/.vim/bundle'
+let g:netrw_dirhist_7='/Users/deividy/.vim'
+let g:netrw_dirhist_8='/Users/deividy/.vim/bundle'
